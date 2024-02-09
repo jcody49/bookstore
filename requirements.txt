@@ -9,11 +9,11 @@ fonttools==4.47.2
 gunicorn==21.2.0
 importlib-resources==6.1.1
 kiwisolver==1.4.5
-matplotlib==3.4.4  # Adjusted version
-numpy==1.21.2  # Adjusted version
+matplotlib==3.5.4
+numpy==1.21.2
 packaging==23.2
-pandas==1.3.3  # Adjusted version
-pillow==8.3.2  # Adjusted version
+pandas==2.0.3
+pillow==10.2.0
 pyparsing==3.1.1
 python-dateutil==2.8.2
 pytz==2023.4
