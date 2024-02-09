@@ -27,6 +27,7 @@ ALLOWED_HOSTS = ['secure-woodland-32584.herokuapp.com']
 
 
 
+
 # Application definition
 
 INSTALLED_APPS = [
